@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ceriiine
-- 👀 I’m currently doing some web development at @tayseer-daawa
+- 👀 I’m currently doing some web development with NuxtJs and fastapi.
 - 🌱 I’m currently learning diverse topics around Scientific Computing.
 - 🤝 I’m looking to collaborate on Scientific Computing Projects.
